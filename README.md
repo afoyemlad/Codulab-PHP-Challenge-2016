@@ -1,2 +1,2 @@
-# codulab_php_challenge
-codeclass challenge for functional html with php
+# Codulab PHP Challenge
+Codeclass challenge for functional HTML with PHP
